@@ -19,3 +19,6 @@ checkout, git merge, git push
 
 
 
+
+## Modificare pe branch dezvoltare
+Aceasta sectiune a fost adaugata pe branch-ul dezvoltare.
