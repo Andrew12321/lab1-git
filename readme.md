@@ -12,4 +12,13 @@ Initializarea unui repository Git, urmarirea modificarilor, lucrul cu branch-uri
 - am facut merge in main si push final
 
 ## Comenzi folosite
-git init, git status, git add, git commit, git log, git branch, git checkout, git merge, git push
+git init, git status, git add, git commit, git log, git branch, git 
+checkout, git merge, git push
+
+
+
+
+
+## Modificare pe branch dezvoltare
+Aceasta sectiune a fost adaugata pe branch-ul dezvoltare.
+>>>>>>> dezvoltare
